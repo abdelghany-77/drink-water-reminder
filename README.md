@@ -1,9 +1,9 @@
 # Water Reminder Desktop Application
-![water_icon](https://github.com/user-attachments/assets/44d35cdc-b13a-4bff-b30b-d072903c9dac)
+![water_icon](https://github.com/user-attachments/assets/978fa175-58b8-4e48-acd4-f8d953368c56)
 
 ## Overview
 
-Water Reminder is a desktop application built with Python that helps you stay hydrated throughout the day. It provides personalized water intake recommendations, customizable reminders, and tracks your daily water consumption in a simple, easy-to-use interface.
+Water Reminder is a desktop application built with Python that helps you stay hydrated throughout the day. It provides personalized water intake recommendations, customizable reminders, and tracks daily water consumption in a simple, easy-to-use interface.
 
 **Latest Version:** 1.0.0 (Released: 2025-05-12)
 
